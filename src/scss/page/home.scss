@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Jupitex Sans Serif";
+    src: url("../Jupitex Sans Serif.ttf") format("truetype");
+}
+
+body {
+    font-family: "Jupitex Sans Serif", serif;
+    color: $body-color;
+}
+
+video {
+    width: 1000px;
+    height: 500px;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+}
+
+video {
+    width: 1000px;
+    height: 600px;
+}
